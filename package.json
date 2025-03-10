@@ -1,0 +1,12 @@
+{
+  "name": "flappy-bird-threejs",
+  "version": "1.0.0",
+  "description": "Flappy Bird game using Three.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  },
+  "dependencies": {
+    "three": "^0.160.0"
+  }
+}
