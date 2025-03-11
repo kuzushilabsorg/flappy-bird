@@ -2,12 +2,6 @@
 
 A basic flappy bird game with 100 percent AI written code to test the limits of vibe coding.
 
-## Game Preview
-
-<p align="center">
-  <img src="screenshot.png" alt="Flappy Bird Game Screenshot" width="800" height="450">
-</p>
-
 ## Demo Video
 
 🎥 [Watch the gameplay demo on Loom](https://www.loom.com/share/1cd0d958b6cd4a738215785e7c8416d7?sid=2b937981-63ef-475b-8058-0de4d36d1a50)
