@@ -4,7 +4,9 @@ A basic flappy bird game with 100 percent AI written code to test the limits of 
 
 ## Game Preview
 
-![Flappy Bird Game Screenshot](flappy_bird.png)
+<p align="center">
+  <img src="screenshot.png" alt="Flappy Bird Game Screenshot" width="800" height="450">
+</p>
 
 ## Demo Video
 
